@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gallery-wall/static/css/main.b51bd802.chunk.css",
+    "main.js": "/gallery-wall/static/js/main.e3fd0732.chunk.js",
+    "main.js.map": "/gallery-wall/static/js/main.e3fd0732.chunk.js.map",
+    "runtime-main.js": "/gallery-wall/static/js/runtime-main.472b6da5.js",
+    "runtime-main.js.map": "/gallery-wall/static/js/runtime-main.472b6da5.js.map",
+    "static/js/2.0aee730e.chunk.js": "/gallery-wall/static/js/2.0aee730e.chunk.js",
+    "static/js/2.0aee730e.chunk.js.map": "/gallery-wall/static/js/2.0aee730e.chunk.js.map",
+    "static/js/3.50cd817a.chunk.js": "/gallery-wall/static/js/3.50cd817a.chunk.js",
+    "static/js/3.50cd817a.chunk.js.map": "/gallery-wall/static/js/3.50cd817a.chunk.js.map",
+    "index.html": "/gallery-wall/index.html",
+    "static/css/main.b51bd802.chunk.css.map": "/gallery-wall/static/css/main.b51bd802.chunk.css.map",
+    "static/js/2.0aee730e.chunk.js.LICENSE.txt": "/gallery-wall/static/js/2.0aee730e.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/gallery-wall/static/media/iconmonstr-arrow-left-thin.df007f34.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472b6da5.js",
+    "static/js/2.0aee730e.chunk.js",
+    "static/css/main.b51bd802.chunk.css",
+    "static/js/main.e3fd0732.chunk.js"
+  ]
+}
