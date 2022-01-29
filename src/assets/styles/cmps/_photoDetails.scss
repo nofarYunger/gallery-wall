@@ -1,0 +1,35 @@
+.details-wrapper {
+    @include overlay;
+
+    background: rgba(26, 26, 26, 0.856);
+    backdrop-filter: blur(2px);
+    z-index: 5;
+    img {
+        filter: brightness(100%);
+        place-self: center;
+        max-width: 95%;
+        max-height: 80%;
+        object-fit: contain;
+        user-select: none;
+
+        @media (min-width: 600px) {
+            max-width: 80%;
+        }
+
+        @media (min-width: 900px) {
+            max-width: 50%;
+        }
+    }
+
+    .arrow {
+        cursor: pointer;
+        width: 30px;
+        height: 30px;
+        background-image: url("../../imgs/iconmonstr-arrow-left-thin.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+        position: absolute;
+        left: 20px;
+        top: 20px;
+    }
+}
