@@ -13,9 +13,9 @@ the app is supporting infinite scroll.
 * [IntersectionObserver](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) for implementing the infinite scroll by listening to the last image that loaded and requesting the API for more images once the observer is close to the view port
  
  ## Installation
-clone this repo to your desktop, go to its root directory and run npm install to install its dependencies.
+clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
 
-Once the dependencies are installed, you can run npm start to start the application. You will then be able to access it at localhost:3000
+Once the dependencies are installed, you can run `npm start` to start the application. You will then be able to access it at localhost:3000
 
 ## Demo
 Check out my demo [Here](https://nofaryunger.github.io/gallery-wall/)
